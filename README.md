@@ -52,6 +52,13 @@ This project analyzes user behavior in an e-commerce platform using a funnel app
 * Implement retargeting campaigns
 
 ---
+## 📂 Dashboard File
+
+Due to size limitations, the Power BI file is available here:
+
+👉 [Download PBIX](https://drive.google.com/file/d/1kZ9j4Ji7VvA98a0GN-rMJcqSXy37cFOy/view?usp=drive_link)
+
+---
 
 ## 🚀 Outcome
 
