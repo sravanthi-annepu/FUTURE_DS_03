@@ -54,7 +54,7 @@ This project analyzes user behavior in an e-commerce platform using a funnel app
 ---
 ## 📷 Dashboard Preview
 
-![Dashboard](E-Commerce Conversion Performance Analysis.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 ## 📂 Dashboard File
