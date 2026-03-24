@@ -52,6 +52,12 @@ This project analyzes user behavior in an e-commerce platform using a funnel app
 * Implement retargeting campaigns
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard](<img width="1110" height="627" alt="E-Commerce Conversion Performance Analysis" src="https://github.com/user-attachments/assets/c57ac35b-63ad-465c-b9da-e5fbd1144805" />
+)
+
+---
 ## 📂 Dashboard File
 
 Due to size limitations, the Power BI file is available here:
